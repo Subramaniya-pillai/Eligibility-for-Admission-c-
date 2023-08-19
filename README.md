@@ -66,7 +66,7 @@ namespace Exp1
 
 ## Output:
 
-![](./o1.png)
+![](./01.png)
 ![](./o2.png)
 
 ## Result:
