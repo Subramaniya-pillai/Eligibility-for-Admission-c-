@@ -67,7 +67,7 @@ namespace Exp1
 ## Output:
 
 ![](./01.png)
-![](./o2.png)
+![](./02.png)
 
 ## Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
